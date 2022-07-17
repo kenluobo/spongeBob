@@ -1,3 +1,5 @@
 ```
-create a remote repository in github
+git remote -v
+
+git push -u origin master
 ```
